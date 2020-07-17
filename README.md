@@ -44,5 +44,5 @@ This sample C-- program demonstrates the syntax of the language:
     </code>
  </pre>
  
-This was a project during the 3rd year of my Computing BSc 
+This was a project during the 3rd year of my Computing BSc<br /> 
 I plan to extend it further 
